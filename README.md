@@ -1,8 +1,8 @@
 # RubleCoin
 Token for sponsorship of the russian president election campaign
 
-Использование смарт-контракта RubleCoin
-(на примере работы через Mist)
+##Использование смарт-контракта RubleCoin
+###(на примере работы через Mist)
 
 1.	Для работы и приема средств в основном блокчейне контракт нужно выгрузить в основой Ethereum-блокчейн
 
